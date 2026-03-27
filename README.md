@@ -2,7 +2,8 @@
 A real-time embedded system project that utilizes an ultrasonic sensor, a servo motor, and an OLED display to simulate a radar scanning system. Developed as part of a Microprocessors / Embedded Systems course.
 
 🛠️ Hardware Components
-Microcontroller: Arduino UNO R4 WiFi
+Microcontroller: 
+Arduino UNO R4 WiFi
 
 Sensors: HC-SR04 Ultrasonic Sensor
 
